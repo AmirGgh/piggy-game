@@ -169,3 +169,14 @@ main {
 .hidden {
   display: none;
 }
+.win {
+  color: gold;
+  position: relative;
+  font-size: 4rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  font-weight: 300;
+  margin-bottom: 1rem;
+  transition: all 0.75s;
+}
